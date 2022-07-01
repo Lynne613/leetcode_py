@@ -1,2 +1,3 @@
-這是leetcode練習
-以Python撰寫
+#這是leetcode練習
+
+##以Python撰寫
